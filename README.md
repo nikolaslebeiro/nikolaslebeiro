@@ -7,3 +7,7 @@ olá bem vindo a meu perfil, me chame de nikolas.
 - 📫 How to reach me:
 nikolaslebeiro@gmail.com
 (67) 99180-****
+
+
+![](https://github-readme-stats.vercel.app/api?username=nikolaslebeiro&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=nikolaslebeiro&show_icons=true&theme=dark)
